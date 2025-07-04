@@ -36,7 +36,7 @@ There is also a Jupyter notebook available for interactive exploration of the re
 
 ```bash
 cd notebooks
-jupyter decaying.ipynb
+jupyter notebook decaying.ipynb
 ```
 
 ## Contributing
